@@ -1,0 +1,65 @@
+.door_container
+{
+	width:140px;
+	display:inline-block;
+	height: 140px;
+	vertical-align: top;
+	margin:10px;
+}
+img 
+{
+	max-width:100%;
+	max-height:100px;
+}
+.image_container 
+{
+	display:none;
+}
+#calendar 
+{
+	width:90%;
+	margin:0 auto;
+}
+.door_container p 
+{
+	text-align: center;
+	font-family: calibri;
+}
+.image_container img
+{
+	margin: 0 auto;
+	display: block;
+}
+.closed_door
+{
+	border: 3px solid black;
+	height: 100px;
+	width: 100%;
+}
+.style1
+{
+	background-color: red;
+}
+.style2
+{
+	background-color: green;
+	color: white;
+}
+.style3
+{
+	background-color: #F2920C;
+}
+h1, p
+{
+	font-family: calibri;
+	text-align: center;
+}
+body
+{
+	background: url(http://emoticonswallpapers.com/background/christmas/christmas-backgound-pattern-025.jpg);
+	background-size: cover;
+}
+div
+{
+	background-color: white;
+}
